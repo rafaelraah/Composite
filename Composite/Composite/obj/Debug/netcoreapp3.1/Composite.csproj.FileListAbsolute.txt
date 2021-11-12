@@ -1,0 +1,13 @@
+C:\Users\PICHAU\source\repos\rafaelraah\Composite\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\Users\PICHAU\source\repos\rafaelraah\Composite\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Users\PICHAU\source\repos\rafaelraah\Composite\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\Users\PICHAU\source\repos\rafaelraah\Composite\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\rafaelraah\Composite\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Users\PICHAU\source\repos\rafaelraah\Composite\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\PICHAU\source\repos\rafaelraah\Composite\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\rafaelraah\Composite\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\rafaelraah\Composite\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\rafaelraah\Composite\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\rafaelraah\Composite\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Users\PICHAU\source\repos\rafaelraah\Composite\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\PICHAU\source\repos\rafaelraah\Composite\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache
